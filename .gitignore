@@ -1,0 +1,69 @@
+﻿# .NET Core & Visual Studio
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+Logs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+
+# Backup & build artifacts
+*.vs/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.zip
+*.tar.gz
+*.pyc
+*.class
+*.war
+*.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Configuration files
+appsettings*.json
+secrets.json
+
+# Coverage and test results
+coverage/
+TestResults/
+
+# Entity Framework migrations
+migrations/
+
+# NPM
+node_modules/
+package-lock.json
+
+# Dependencies
+.nuget/
+*.nupkg
+*.snupkg
+
+# Generated code
+ServiceFabricBackup/
+GeneratedCode/
+
+# Temporary files
+*.tmp
+*.temp
